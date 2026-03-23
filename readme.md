@@ -1,14 +1,14 @@
-### ✅ Lista de tarefas  - Teste DOM
+### Lista de tarefas  - Teste DOM
 
 Aplicação de lista de tarefas desenvolvida como primeiro contato em javascript e manipulação de DOM.
 
-🛠️ Tecnologias
+Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### ✅ Funcionalidades
+### Funcionalidades
 
 - Adicionar tarefas a sua lista
 
@@ -27,11 +27,11 @@ assets/
 index.html
 ```
 
-## 🚀 Como rodar
+## Como rodar
  
 Abra o arquivo `index.html` diretamente no navegador — sem dependências ou instalação, ou use o live server do vs code.
 
-### 📌 Observações 
+### Observações 
 Projeto feito para praticar conceitos da manipulação do DOM com javascript puro:
 `querySelect`, `addEventListener`, `innerHTML` e manipulação de arrays
 ---
